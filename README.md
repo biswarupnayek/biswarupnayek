@@ -7,14 +7,24 @@
 
 ---
 
-## 🏴‍☠️ About Me
+## 🛡 About Me
 
-I am a security-focused developer passionate about ethical hacking, system exploitation, and AI-driven defense systems.
+I am a cybersecurity-focused developer with a strong interest in ethical hacking and applied security research.
 
-I explore vulnerabilities to understand how systems fail — and engineer solutions to make them resilient.
+My approach is built on three pillars:
 
----
+- 🔍 Understanding attack vectors  
+- 🛠 Practicing controlled exploitation in lab environments  
+- 🔐 Engineering defensive mechanisms  
 
+I continuously work on improving my knowledge of:
+
+- Web application vulnerabilities (XSS, SQLi, authentication flaws)
+- Network-level security concepts
+- Threat detection using Machine Learning
+- Secure system architecture
+
+I aim to bridge the gap between traditional cybersecurity techniques and intelligent AI-based defense systems.
 ## 🔥 Cybersecurity Arsenal
 
 ### 🛠 Tools & Platforms
@@ -68,7 +78,7 @@ I explore vulnerabilities to understand how systems fail — and engineer soluti
 ✔ Exploit to understand  
 ✔ Analyze to learn  
 ✔ Build to secure  
-✔ Engineer intelligent defense systems  
+✔ MS in Europe 
 
 ---
 
