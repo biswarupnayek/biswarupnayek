@@ -1,93 +1,84 @@
-<h1 align="center">🧠 Biswarup Nayek</h1>
-<h3 align="center">AI Engineer | Cybersecurity Enthusiast | Future Researcher 🇩🇪</h3>
+<h1 align="center">⚡ BISWARUP NAYEK ⚡</h1>
+<h3 align="center">🛡 Ethical Hacker | Cybersecurity Specialist | AI Security Engineer 🛡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Cybersecurity+Focused+Developer;Phishing+Detection+Researcher;Future+MS+Cybersecurity+Student">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=800&lines=Think+Like+An+Attacker;Build+Like+A+Defender;Offensive+%26+Defensive+Security;AI+Powered+Threat+Detection">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🏴‍☠️ About Me
 
-I am an AI & Machine Learning student focused on building **security-driven intelligent systems**.
+I am a security-focused developer passionate about ethical hacking, system exploitation, and AI-driven defense systems.
 
-My work combines:
-- 🤖 Machine Learning
-- 🔐 Cybersecurity
-- 📊 Data-Driven Decision Systems
-- ⚙️ Optimization & Scalability
-
-I believe AI should not just predict — it should **protect**.
+I explore vulnerabilities to understand how systems fail — and engineer solutions to make them resilient.
 
 ---
 
-## 🔬 Research Interests
+## 🔥 Cybersecurity Arsenal
 
-- Phishing & Malware Detection using ML
-- NLP for Security Applications
-- Secure Model Deployment
-- Adversarial Machine Learning
+### 🛠 Tools & Platforms
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-005571?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+### 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+
+---
+
+### 🤖 AI + Security
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF00)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF00)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF00)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF00)
+
+---
+
+## 🧠 Areas of Focus
+
+- Web Application Security
+- Vulnerability Assessment
 - Network Traffic Analysis
+- Phishing & Social Engineering Detection
+- AI-based Threat Classification
+- Secure System Design
 
 ---
 
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming
-`Python` | `C++` | `SQL`
-
-### 🤖 Machine Learning
-`Scikit-learn` | `Pandas` | `NumPy` | `NLP` | `Model Evaluation` | `Feature Engineering`
-
-### 🌐 Deployment
-`Flask` | `Pickle` | `REST APIs`
-
-### 🔐 Cybersecurity
-`Kali Linux` | `Burp Suite` | `Phishing Analysis` | `Network Fundamentals`
-
----
-
-## 📌 Featured Project
-
-### 🔐 Phishing URL Detection System
-
-Machine Learning-based system to detect malicious URLs using NLP techniques.
-
-✔ Supervised classification model  
-✔ Real-time web deployment using Flask  
-✔ Vectorization + Model Serialization  
-✔ Designed for real-world phishing prevention  
-
-> This project demonstrates applied AI in cybersecurity domain.
-
----
-
-## 📈 GitHub Stats
+## 📊 Hacker Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biswarupnayek&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswarupnayek&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Mission
 
-- Publish research-level security project
-- Deploy ML security system on cloud
-- Contribute to open-source security tools
-- Pursue MS in Cybersecurity (Germany)
+✔ Exploit to understand  
+✔ Analyze to learn  
+✔ Build to secure  
+✔ Engineer intelligent defense systems  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Secure Contact
 
-📧 yourmail@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 nayekbiswarup095@gmail.com  
 🌍 India  
 
 ---
 
 <p align="center">
-  ⚡ "Engineering Intelligent Systems That Defend the Digital World"
+  ⚡ "Security Is A Continuous Battle Between Attack & Defense." ⚡
 </p>
